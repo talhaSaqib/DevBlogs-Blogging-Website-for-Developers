@@ -1,0 +1,9 @@
+{
+    "mongoURI1": "mongodb+srv://talhaSaqib:hijackers@devblogs-mlu1q.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb://talhaSaqib:hijackers@devblogs-shard-00-00-mlu1q.mongodb.net:27017,devblogs-shard-00-01-mlu1q.mongodb.net:27017,devblogs-shard-00-02-mlu1q.mongodb.net:27017/test?ssl=true&replicaSet=DevBlogs-shard-0&authSource=admin&retryWrites=true&w=majority",
+
+    "jwtToken": "mySecretToken",
+
+    "githubClientId": "4eac8dab0ee7b16ceb6e",
+    "githubSecret": "6b2c706ccdc2217c67c8ec898a490072391e6e42"
+}
